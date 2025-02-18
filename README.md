@@ -3,4 +3,4 @@
 - I’m currently learning git.
 - I’m looking to collaborate on making the world better.
 - How to reach me https://www.jasonrietmann.com
-- Fun fact: I like coffee.
+- Fun fact: I like coffee. I like to code.
